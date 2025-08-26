@@ -17,7 +17,7 @@ This Website totally build by Our Skill-X Dynamic Group (Team Member: kumaresh J
 
 ## 🚀 Live Demo
 
-👉 [Live Demo on GitHub Pages](https://zabed05.github.io/Canteen-Management-system/https://zabed05.github.io/Canteen-Management-system/)  
+👉 [Live Demo on GitHub Pages](https://zabed05.github.io/Canteen-Management-system/)  
 
 ---
 
